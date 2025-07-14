@@ -1,0 +1,46 @@
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Application properties (if you want to hide credentials later)
+# Uncomment this if you want to keep your properties private:
+src/main/resources/application.properties
+# src/main/resources/application.yml
+
+# Jars
+*.jar
+
+# System files
+*.swp
